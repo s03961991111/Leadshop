@@ -1,0 +1,1 @@
+ALTER TABLE `heshop_initialize_prefix_task_user` ADD INDEX `uid`(`UID`);
